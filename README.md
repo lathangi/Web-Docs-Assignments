@@ -1,5 +1,10 @@
 # Web-Docs-Assignments
 
+Name of the clients : Lathangi Vemulapalli and Philip Paul Arunodhayam Thangam Jesudian
+
+Github username of the clients : lathangi and Philippaul
+
+Name of the developers : Priyanka Balaji and Ahmad Albenny
 
 Business Description
 
@@ -45,3 +50,6 @@ requirements through well established Quality Management System ISO 9001:2008. A
 Policy by all stakeholders is a key to our success. We shall continuously upgrade our Quality Management System 
 in order to attain highest standards of quality and thereby exceeding our customers’ expectations.
 
+
+Website Requirements:
+The websites needs to be developed in a clean manner with site headers and footers. The site must have links to all other parts of the website. Inclusion of site map is essential. The home page can be attractive. The site needs to be accessible from all kinds of devices like mobile phone and computers. Breadcrub is essential throughout the website. The website can have light brown color textures for the headers and footers. The webpages can be little discreptive. The sitemap should me present on the website. All pages of the website shall be filled with relative texts and paragraphs.
