@@ -102,19 +102,19 @@ Facts:
 The ingredients used are dependent on the type of chocolate being made. Dark chocolate requires only cocoa mass, cocoa butter, and sugar. Adding milk powder makes milk chocolate.
 How we make:
 
-What, to you, is the perfect simple salad? I’m not talking lunch salads or grain salads, but the simplest of dinner accompaniments, the salad that gets tossed at the last moment to lay beside a piece of grilled chicken or a plate of pasta. This kind of salad often feels like an afterthought. It’s the obligatory vegetable to be munched down before enjoying the rest of your dinner. But this doesn’t need to be so! Here are some thoughts, tips, and directions to help you turn your side salad into the most delicious part of the meal.
+1) What, to you, is the perfect simple salad? I’m not talking lunch salads or grain salads, but the simplest of dinner accompaniments, the salad that gets tossed at the last moment to lay beside a piece of grilled chicken or a plate of pasta. This kind of salad often feels like an afterthought. It’s the obligatory vegetable to be munched down before enjoying the rest of your dinner. But this doesn’t need to be so! Here are some thoughts, tips, and directions to help you turn your side salad into the most delicious part of the meal.
 
-This is of course not a hard and fast instructional. Everyone has different tastes in salad and I bow to that. Maybe you like yours with a creamy dressing; maybe you like yours super assertive like Amanda Hesser and her anchovy-spiked vinaigrette. Maybe you like to always have extra vegetables in your salad or, like me, you just want to keep it ultra-simple.
+2) This is of course not a hard and fast instructional. Everyone has different tastes in salad and I bow to that. Maybe you like yours with a creamy dressing; maybe you like yours super assertive like Amanda Hesser and her anchovy-spiked vinaigrette. Maybe you like to always have extra vegetables in your salad or, like me, you just want to keep it ultra-simple.
 
-The point, no matter how you decide to dress your salad — up or down — is that it taste delicious. Salads need seasoning too, just like any other dish.
+3) The point, no matter how you decide to dress your salad — up or down — is that it taste delicious. Salads need seasoning too, just like any other dish.
 
 So here are my thoughts and process on making a quick salad for dinner. I do this nearly every time I make dinner, and often I unexpectedly enjoy this pile of greens more than anything else on the table. There’s a purity and deliciousness to a well-dressed pile of greens that other, more complex, dishes often do not approach.
 
 Our Services:
-Catering:
+1) Catering:
 We offer catering service in the near locality with dining option for about 100 people. We will deliver things required for catering of a group of people. We also make you events beautiful with our service and tasty food.
 
-Delivery:
+2) Delivery:
 We deliver food and snacks with-in 5kms of radius of our retail shops in your locality. We provide your food in good packaging and in very good temperature condition. Though we charge extra for delivery it is worth money and effort.
 
 Website Requirements:
