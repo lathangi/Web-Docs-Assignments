@@ -110,7 +110,12 @@ The point, no matter how you decide to dress your salad — up or down — is th
 
 So here are my thoughts and process on making a quick salad for dinner. I do this nearly every time I make dinner, and often I unexpectedly enjoy this pile of greens more than anything else on the table. There’s a purity and deliciousness to a well-dressed pile of greens that other, more complex, dishes often do not approach.
 
+Our Services:
+Catering:
+We offer catering service in the near locality with dining option for about 100 people. We will deliver things required for catering of a group of people. We also make you events beautiful with our service and tasty food.
 
+Delivery:
+We deliver food and snacks with-in 5kms of radius of our retail shops in your locality. We provide your food in good packaging and in very good temperature condition. Though we charge extra for delivery it is worth money and effort.
 
 Website Requirements:
 The websites needs to be developed in a clean manner with site headers and footers. The site must have links to all other parts of the website. Inclusion of site map is essential. The home page can be attractive. The site needs to be accessible from all kinds of devices like mobile phone and computers. Breadcrub is essential throughout the website. The website can have light brown color textures for the headers and footers. The webpages can be little discreptive. The sitemap should me present on the website. All pages of the website shall be filled with relative texts and paragraphs.
