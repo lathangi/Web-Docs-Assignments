@@ -1,13 +1,13 @@
 # Web-Docs-Assignments
 
 ### Name of the clients :
-*** Lathangi Vemulapalli and Philip Paul Arunodhayam Thangam Jesudian ***
+***Lathangi Vemulapalli and Philip Paul Arunodhayam Thangam Jesudian***
 
 ### Github username of the clients :
-*** lathangi and Philippaul ***
+***lathangi and Philippaul***
 
 ### Name of the developers : 
-*** Priyanka Balaji and Ahmad Albenny ***
+***Priyanka Balaji and Ahmad Albenny***
 
 ## Business Description :
 Bread and Butter.Co was founded in Hyderabad, India in 1978. Mr. Sanjeev Kapoor created the company with the support of his significant baking experience and all of his loyal employees who come together to build the company. The company went through a lot of growth and innovation after then. 
@@ -59,13 +59,13 @@ Policy by all stakeholders is a key to our success. We shall continuously upgrad
 in order to attain highest standards of quality and thereby exceeding our customers’ expectations.
 
 #### How our products are made :
-- **:+1F382: Our cakes and facts :**
+- **:birthday: Our cakes and facts :**
 The earliest versions of cake were actually flat, compact discs of grain which were dried and compacted together. The closest resemblance to the cakes we enjoy today actually didn’t appear until the early 18th century, as before this time, they were raised with yeast and closer to bread than cakes.
 
 DirectionsInstructions Checklist Step 1 Preheat broiler to 325 degrees F (165 degrees C). Step 2 In a medium bowl combine graham wafer scraps, 2 tablespoons sugar and butter. Press into the foot of a 9 inch spring frame pan. Step 3 Bake in preheated stove for 10 minutes. Put on a wire rack to cool. Step 4 Preheat broiler to 425 degrees F (220 degrees C). Step 5 In a nourishment processor combine cream cheese, 1 container sugar, flour and eggnog; handle until smooth. Mix in eggs, rum and nutmeg. Pour blend into cooled crust. Step 6 Bake in preheated broiler for 10 minutes. Step 7 Reduce warm to 250 and prepare for 45 minutes, or until center of cake is scarcely firm to the touch. Expel from the stove and promptly extricate cake from edge. Let cake cool totally some time recently evacuating the edge.
 
 - *Our biscuits :*
-**:+1F9C7: Biscuit facts :**
+**:waffle: Biscuit facts :**
 1. As studies show a rise in elevenses and tea-time occasions as a result of being in lockdown with friends and family, 40 per cent of Brits have said they’ve been enjoying more biscuits during this time.
 
 2. British biscuit consumption is the highest in the world, higher than all major European countries and even 35 per cent higher than the US.
@@ -91,7 +91,7 @@ DirectionsInstructions Checklist Step 1 Preheat broiler to 325 degrees F (165 de
 
 6. Don’t be afraid to add flour to the dough if it’s too sticky while you are handling it (and make sure to work on a lightly floured surface).
 
-- *:+1F36B: Our chocolates:*
+- *:chocolate_bar: Our chocolates:*
 **Facts :**
 1. Chocolates Can Help Prevent Tooth Decay
 
@@ -114,7 +114,7 @@ At this point, soy lecithin and cocoa butter may be added for required fluidity.
 4. This method requires “tempering” — whereby chocolate is slowly brought to a certain temperature. Tempering chocolate is something any aspiring baker or chocolate maker can try at home.
 5. During the tempering process, the cocoa butter reaches its most stable form; this gives well-tempered chocolate its “snap,” shiny surface, and smoothness.White chocolate is made with cocoa butter, sugar, and milk powder (but no cocoa mass/liquor). Because it contains no cocoa mass, some do not consider it a true chocolate.
 
-- *:+1F955: Our vegan food :*
+- *:carrot: Our vegan food :*
 **Facts :**
 1. Vegan food is delicious and very diverse
 2. A plant-based diet can easily provide complete protein!
@@ -132,10 +132,10 @@ The ingredients used are dependent on the type of chocolate being made. Dark cho
 So here are my thoughts and process on making a quick salad for dinner. I do this nearly every time I make dinner, and often I unexpectedly enjoy this pile of greens more than anything else on the table. There’s a purity and deliciousness to a well-dressed pile of greens that other, more complex, dishes often do not approach.
 
 #### Our Services :
-###### 1. Catering:+1F468: :
+###### 1. Catering :man_cook: :
 We offer catering service in the near locality with dining option for about 100 people. We will deliver things required for catering of a group of people. We also make you events beautiful with our service and tasty food.
 
-###### 2. Delivery :+1F69A: :
+###### 2. Delivery ::articulated_lorry:: :
 We deliver food and snacks with-in 5kms of radius of our retail shops in your locality. We provide your food in good packaging and in very good temperature condition. Though we charge extra for delivery it is worth money and effort.
 
 ## Website Requirements :
