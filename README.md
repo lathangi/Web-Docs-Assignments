@@ -10,7 +10,7 @@
 ***Priyanka Balaji*** and ***Ahmad Albenny***
 
 ### Github username of the developers :
-***Name_A_Here*** and ***Name_B_Here***
+***balajpri2021*** and ***Mr.Ahmad Albenny's user name here***
 
 ## Business Description :
 Bread and Butter.Co was founded in Hyderabad, India in 1978. Mr. Sanjeev Kapoor created the company with the support of his significant baking experience and all of his loyal employees who come together to build the company. The company went through a lot of growth and innovation after then. 
