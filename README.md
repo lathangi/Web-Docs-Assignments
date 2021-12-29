@@ -9,6 +9,9 @@
 ### Name of the developers : 
 ***Priyanka Balaji*** and ***Ahmad Albenny***
 
+### Github username of the developers :
+***Name_A_Here*** and ***Name_B_Here***
+
 ## Business Description :
 Bread and Butter.Co was founded in Hyderabad, India in 1978. Mr. Sanjeev Kapoor created the company with the support of his significant baking experience and all of his loyal employees who come together to build the company. The company went through a lot of growth and innovation after then. 
 
@@ -70,7 +73,7 @@ DirectionsInstructions Checklist Step 1 Preheat broiler to 325 degrees F (165 de
 
 - *:waffle: Our biscuits :*
 
-** Biscuit facts :**
+**Biscuit facts :**
 
 1. As studies show a rise in elevenses and tea-time occasions as a result of being in lockdown with friends and family, 40 per cent of Brits have said they’ve been enjoying more biscuits during this time.
 
