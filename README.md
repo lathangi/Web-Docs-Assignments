@@ -1,13 +1,13 @@
 # Web-Docs-Assignments
 
 ### Name of the clients :
-***Lathangi Vemulapalli and Philip Paul Arunodhayam Thangam Jesudian***
+***Lathangi Vemulapalli*** and ***Philip Paul Arunodhayam Thangam Jesudian***
 
 ### Github username of the clients :
-***lathangi and Philippaul***
+***lathangi*** and ***Philippaul***
 
 ### Name of the developers : 
-***Priyanka Balaji and Ahmad Albenny***
+***Priyanka Balaji*** and ***Ahmad Albenny***
 
 ## Business Description :
 Bread and Butter.Co was founded in Hyderabad, India in 1978. Mr. Sanjeev Kapoor created the company with the support of his significant baking experience and all of his loyal employees who come together to build the company. The company went through a lot of growth and innovation after then. 
@@ -59,7 +59,7 @@ Policy by all stakeholders is a key to our success. We shall continuously upgrad
 in order to attain highest standards of quality and thereby exceeding our customers’ expectations.
 
 #### How our products are made :
-- **:birthday: Our cakes and facts :**
+- **:birthday: Our cakes and facts :**-
 The earliest versions of cake were actually flat, compact discs of grain which were dried and compacted together. The closest resemblance to the cakes we enjoy today actually didn’t appear until the early 18th century, as before this time, they were raised with yeast and closer to bread than cakes.
 
 DirectionsInstructions Checklist Step 1 Preheat broiler to 325 degrees F (165 degrees C). Step 2 In a medium bowl combine graham wafer scraps, 2 tablespoons sugar and butter. Press into the foot of a 9 inch spring frame pan. Step 3 Bake in preheated stove for 10 minutes. Put on a wire rack to cool. Step 4 Preheat broiler to 425 degrees F (220 degrees C). Step 5 In a nourishment processor combine cream cheese, 1 container sugar, flour and eggnog; handle until smooth. Mix in eggs, rum and nutmeg. Pour blend into cooled crust. Step 6 Bake in preheated broiler for 10 minutes. Step 7 Reduce warm to 250 and prepare for 45 minutes, or until center of cake is scarcely firm to the touch. Expel from the stove and promptly extricate cake from edge. Let cake cool totally some time recently evacuating the edge.
