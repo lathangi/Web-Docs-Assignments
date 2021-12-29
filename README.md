@@ -21,10 +21,10 @@ www.breadandbutter.cooking
 ## Location: 
 ```
 HeadQuarters - Road No.12, Banjara Hills, Hyderabad, India.
-Branches - 
-  8th Cross, JayaNagar, Bangalore, Hyderabad.
-  164, St Mary's Road, Alwarpet, Chennai.
-  1729, Gimiks Road, Madhivala, Bengalore.
+Branches :- 
+          8th Cross, JayaNagar, Bangalore, Hyderabad.
+          164, St Mary's Road, Alwarpet, Chennai.
+          1729, Gimiks Road, Madhivala, Bengalore.
 ```
 
 ## Contact Information :
