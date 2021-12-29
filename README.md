@@ -30,7 +30,9 @@ Branches - 8th Cross, JayaNagar, Bangalore, Hyderabad.
 #### E-mail: breadandbutter@gmail.com
 >Phone number:
 >> Hyderabad: +91 22 1234 5678
+
 >> Bangalore: +91 9876543210
+
 >> Chennai: +91 8964753120
 
 
@@ -65,9 +67,9 @@ The earliest versions of cake were actually flat, compact discs of grain which w
 
 DirectionsInstructions Checklist Step 1 Preheat broiler to 325 degrees F (165 degrees C). Step 2 In a medium bowl combine graham wafer scraps, 2 tablespoons sugar and butter. Press into the foot of a 9 inch spring frame pan. Step 3 Bake in preheated stove for 10 minutes. Put on a wire rack to cool. Step 4 Preheat broiler to 425 degrees F (220 degrees C). Step 5 In a nourishment processor combine cream cheese, 1 container sugar, flour and eggnog; handle until smooth. Mix in eggs, rum and nutmeg. Pour blend into cooled crust. Step 6 Bake in preheated broiler for 10 minutes. Step 7 Reduce warm to 250 and prepare for 45 minutes, or until center of cake is scarcely firm to the touch. Expel from the stove and promptly extricate cake from edge. Let cake cool totally some time recently evacuating the edge.
 
-- *Our biscuits :*
+- *:waffle: Our biscuits :*
 
-**:waffle: Biscuit facts :**
+** Biscuit facts :**
 
 1. As studies show a rise in elevenses and tea-time occasions as a result of being in lockdown with friends and family, 40 per cent of Brits have said they’ve been enjoying more biscuits during this time.
 
