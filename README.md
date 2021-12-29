@@ -146,7 +146,7 @@ So here are my thoughts and process on making a quick salad for dinner. I do thi
 ###### 1. Catering :man_cook: :
 We offer catering service in the near locality with dining option for about 100 people. We will deliver things required for catering of a group of people. We also make you events beautiful with our service and tasty food.
 
-###### 2. Delivery ::articulated_lorry:: :
+###### 2. Delivery :articulated_lorry:: :
 We deliver food and snacks with-in 5kms of radius of our retail shops in your locality. We provide your food in good packaging and in very good temperature condition. Though we charge extra for delivery it is worth money and effort.
 
 ## Website Requirements :
