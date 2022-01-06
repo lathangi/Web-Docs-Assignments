@@ -151,17 +151,18 @@ h1,h2,h3,h4,h5,h6
 
 footer
 {
- 	border: solid 10px;
 	position: absolute;
-	width: 94%;
+	width: 48em;
 	height: 30%;
 	margin-top: 50%;
+
 }
 
 address
 {
 	font-style: normal;
 	text-align: justify;
+	position: absolute;
 }
 
 table, th, td {
