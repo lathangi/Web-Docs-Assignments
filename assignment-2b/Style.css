@@ -7,7 +7,7 @@ html
     line-height: 1.33;
 	position: absolute;
 	font-size: 24px;
-	padidng: 10%;
+	padding: 1%;
 }
 h1,h2,h3,h4,h5,h6
 {
@@ -47,8 +47,8 @@ h1,h2,h3,h4,h5,h6
 .topnav a {
 	color: #8b1010;
 	display: block;
-	font: bold 18.5px/50px Times New Roman,serif;
-	padding: 0 53px;
+	font: bold 20px/50px Times New Roman,serif;
+	padding: 0 48.5px;
 	text-align: left;
 	text-decoration: none;
 	background: #ffddca;
@@ -152,10 +152,9 @@ h1,h2,h3,h4,h5,h6
 footer
 {
 	position: absolute;
-	width: 48em;
-	height: 30%;
+	width: 48.5em;
 	margin-top: 50%;
-
+	display: block;
 }
 
 address
