@@ -1,0 +1,171 @@
+/* Done by Priyanka*/
+html
+{
+	color: #8b1010;
+	background-image: linear-gradient(to right, #DAA06D, #EDC9AF,#DAA06D);
+	font-family: "Times New Roman", Times, serif ;
+    line-height: 1.33;
+	position: absolute;
+	font-size: 24px;
+	padidng: 10%;
+}
+h1,h2,h3,h4,h5,h6
+{
+
+}
+/*Browser resolution*/
+.WebContainer{
+	width:100%;
+	min-width:1000px;
+	height:auto;
+}
+/*Flexbox*/
+.row {
+	display: flex;
+}
+
+.column {
+	flex: 50%;
+	padding: 5px;
+	height: 300px;
+}
+/*Smooth Navigation*/
+
+.topnav ul {
+	-webkit-font-smoothing: antialiased;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.topnav li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+.topnav a {
+	color: #8b1010;
+	display: block;
+	font: bold 18.5px/50px Times New Roman,serif;
+	padding: 0 53px;
+	text-align: left;
+	text-decoration: none;
+	background: #ffddca;
+	display: block;
+	transition: all .25s ease;
+}
+
+.topnav li:hover a {
+	background: #b5651d;
+	color:#FFF;
+}
+.topnav li ul {
+	left: 0;
+	width: 179%;
+	opacity: 0;
+	position: absolute;
+	visibility: hidden;
+	z-index: 1;
+	transition: all .25s ease;
+}
+.topnav li:hover ul {
+	opacity: 1;
+	top: 50px;
+	visibility: visible;
+}
+.topnav li ul li {
+	float: none;
+	width: 100%;
+}
+.topnav li ul a:hover {
+	background: #C89D7C;
+}
+/* Clearfix */
+.cf:after, .cf:before {
+	content: "";
+	display: table;
+}
+.cf:after {
+	clear: both;
+}
+
+.video
+{
+   	position: absolute;
+   	top: 60%;
+   	display: block;
+	width: 100%;
+    height:100%;
+    overflow: auto;
+    border: none;
+}
+
+
+/*Breadcrumbs*/
+.breadcrumb {
+	padding: 10px 16px;
+	list-style: none;
+}
+.breadcrumb li {
+	display: inline;
+	font-size: 18px;
+}
+.breadcrumb li+li:before {
+	padding: 10px;
+	color: black;
+	content: ">";
+}
+.breadcrumb li a {
+	color: #0275d8;
+	text-decoration: none;
+}
+.breadcrumb li a:hover {
+	color: #01447e;
+	text-decoration: underline;
+}
+
+/*Logo*/
+.logo
+{
+     float: none;
+     width: 200px;
+     height: 200px;
+     margin-top: -60px;
+     position: absolute;
+ }
+
+/*image scaling*/
+.scaled
+{
+	width:100%;
+	height:150%;
+
+}
+/*TEXT align*/
+.text
+{
+	text-align: justify;
+	padding: 20px 20px 20px 20px;
+}
+
+footer
+{
+ 	border: solid 10px;
+	position: absolute;
+	width: 94%;
+	height: 30%;
+	margin-top: 50%;
+}
+
+address
+{
+	font-style: normal;
+	text-align: justify;
+}
+
+table, th, td {
+	border: 1px none;
+}
+
+
