@@ -1,4 +1,4 @@
-/* Done by Priyanka*/
+/* Done by Priyanka Balaji*/
 html
 {
 	color: #8b1010;
@@ -9,7 +9,13 @@ html
 	position: absolute;
 	padding: 1%;
 }
-h1              { font-size: 50px; }
+h1              {
+	font-size: 70px;
+	text-align: center;
+	color: #8b1010;
+	margin-top: 10px;
+	text-shadow: 4px 4px 4px #a7a4a4;
+}
 h2              {
 	font-family: 'Petit Formal Script', serif;
 	font-size: 48px;
@@ -147,7 +153,7 @@ h5              { font-size: 0.83em;  }
 
 footer
 {
-	position: absolute;
+	position: relative;
 	width: 48.5em;
 	margin-top: 50%;
 	display: block;
