@@ -1,20 +1,32 @@
 /* Done by Priyanka Balaji*/
 html
 {
-	color: #8b1010;
-	background-image: linear-gradient(to right, #DAA06D, #EDC9AF,#DAA06D);
-	margin: 10px 10px 10px 10px;
-	font-family: "Times New Roman", Times, serif ;
+	color: #eca1a6;
+	/*background-image: linear-gradient(to right, #eca1a6, #bdcebe, #ada397);*/
+	margin: 10px;
+	animation-name: example;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
 	position: inherit;
+	background: white;
+	display: block;
 	font-size: 24px;
 	line-height: 1.5em;
-	display: block;
 }
+
+@keyframes example {
+	0%   {background-color:#4f3222; }
+	25%  {background-color:#625750;}
+	50%  {background-color:#4f3222;}
+	75%  {background-color:#563f46;}
+	100% {background-color:#4f3222;}
+}
+
 
 h1
 {
 	font-size: 2em;
-	color: #8b1010;
+	color: #eca1a6;
 	margin: 0.67em 0;
 	font-family: 'Petit Formal Script', serif;
 	text-align: center;
@@ -25,7 +37,7 @@ h1
 h2
 {
 	font-size: 1.5em;
-	color: #8b1010;
+	color: #eca1a6;
 	margin: 0.75em;
 	font-family: 'Petit Formal Script', serif;
 	text-align: center;
@@ -35,7 +47,7 @@ h2
 h3              {
 	font-size: 1.17em;
 	margin: .83em 0;
-	color: #8b1010;
+	color: #eca1a6;
 	font-family: 'Petit Formal Script', serif;
 	text-align: center;
 	line-height: 1.5em;
@@ -44,7 +56,7 @@ h3              {
 h4				{
 	font-size: 1.12em;
 	margin: .83em 0;
-	color: #8b1010;
+	color: #eca1a6;
 	font-family: 'Petit Formal Script', serif;
 	text-align: center;
 	line-height: 1.5em;
@@ -53,7 +65,7 @@ h4				{
 h5              {
 	font-size: 0.83em;
 	margin: 1.5em;
-	color: #8b1010;
+	color: #eca1a6;
 	font-family: 'Petit Formal Script', serif;
 	text-align: center;
 	line-height: 1.5em;
@@ -63,7 +75,7 @@ h6
 {
 	font-size: .75em;
 	margin: 1.67em 0;
-	color: #8b1010;
+	color: #eca1a6;
 	font-family: 'Petit Formal Script', serif;
 	text-align: center;
 	line-height: 1.5em;
@@ -108,23 +120,23 @@ h6
         position: relative;
     }
     .topnav a {
-        color: #8b1010;
+        color: #eca1a6;
         display: block;
         font: bold 18px/40px Times New Roman,serif;
     	padding: 5px 40px;
 	    text-align: left;
 		position: relative;
 	text-decoration: none;
-	background: #ffddca;
+	/* background: #ffddca;*/
 	transition: all .25s ease;
 }
 
 .topnav li:hover a {
-    background: #8b1010;
+    background: #eca1a6;
 	color:#FFF;
 }
 .topnav li ul {
-	left: 8px;
+	left: 39px;
 	width: 179%;
 	opacity: 0;
 	position: absolute;
@@ -192,7 +204,7 @@ h6
 	width: 500px;
 	height: 500px;
 	object-fit: cover;
-	border: double #8b1010 5px;
+	border: double #eca1a6 5px;
 }
 /*TEXT align*/
 .text
