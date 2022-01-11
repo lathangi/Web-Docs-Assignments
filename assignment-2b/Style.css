@@ -3,9 +3,9 @@ html
 {
 	color: #eca1a6;
 	/*background-image: linear-gradient(to right, #eca1a6, #bdcebe, #ada397);*/
-	margin: 10px;
+	margin: 5px;
 	animation-name: example;
-	animation-duration: 10s;
+	animation-duration: 20s;
 	animation-iteration-count: infinite;
 	position: inherit;
 	background: white;
@@ -13,13 +13,18 @@ html
 	font-size: 24px;
 	line-height: 1.5em;
 }
-
+body
+{
+	margin:10px;
+}
 @keyframes example {
-	0%   {background-color:#4f3222; }
-	25%  {background-color:#625750;}
-	50%  {background-color:#4f3222;}
-	75%  {background-color:#563f46;}
-	100% {background-color:#4f3222;}
+	0%   {background-color:#563f46;}
+	15%  {background-color:#625750;}
+	20%  {background-color:#563f46;}
+	25%  {background-color:#4f3222;}
+	50%  {background-color:#563f46;}
+	75%  {background-color:#625750;}
+	100% {background-color:#563f46;}
 }
 
 
@@ -115,7 +120,7 @@ h6
     }
     .topnav li {
         float: left;
-        margin: -10px -30px 10px -8px;
+        margin: -10px -27px 10px -8px;
         padding: 0px 6px;
         position: relative;
     }
@@ -167,8 +172,10 @@ h6
 
 /*Breadcrumbs*/
 .breadcrumb {
-	padding: 10px 10px;
-	margin: 100px 10px -55px 0px;;
+	padding: 100px 10px 5px;
+	margin: 5px 5px 5px 5px;
+	position: sticky;
+
 }
 .breadcrumb li {
 	display: inline;
@@ -179,15 +186,15 @@ h6
 	content: ">";
 }
 .breadcrumb li a {
-	color: #0275d8;
-	text-decoration: none;
+	color: #eca1a6;
+	text-decoration-style: double;
 }
 .breadcrumb li a:hover {
-	color: #01447e;
+	color: white;
 	text-decoration: underline;
 }
 
-/*Logo*/
+/*oo*/
 .logo
 {
      margin-left:-40px;
@@ -195,7 +202,7 @@ h6
      height: 250px;
      margin-top: -100px;
      position: absolute;
-	max-width: 80%;
+
  }
 
 /*image scaling*/
