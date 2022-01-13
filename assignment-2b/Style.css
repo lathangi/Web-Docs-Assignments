@@ -319,13 +319,11 @@ a
 
 /*integration of Social Media*/
 .fa {
-	padding: 15px ;
-	height:15px;
-	width:10px;
-	text-decoration: solid;
-	border-radius: 50%;
-	display: inline-block;
-	font-size: inherit;
+	padding: 10px;
+	font-weight: normal;
+	text-decoration:none;
+	border-radius: 20%;
+	display: block;
 }
 
 .fa:hover {
