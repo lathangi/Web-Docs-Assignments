@@ -3,12 +3,11 @@ html
 {
 	color: #eca1a6;
 	/*background-image: linear-gradient(to right, #eca1a6, #bdcebe, #ada397);*/
-	margin: 5px;
 	animation-name: colorchange;
 	animation-duration: 20s;
 	animation-iteration-count: infinite;
 	position: absolute;
-	width: 100%;
+	width: 99%;
 	height: 100%;
 }
 
@@ -35,12 +34,7 @@ main{
 	75%  {background-color:#625750;}
 	100% {background-color:#563f46;}
 }
-/*Device width*/
-* {
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
+
 h1
 {
 	font-size: 2em;
@@ -149,7 +143,7 @@ h6
         color: #eca1a6;
         display: block;
         font: bold 20px/40px 'Petit Formal Script', serif;
-    	padding: 5px 26px;
+    	padding: 5px 25px;
 	    text-align: left;
 		position: relative;
 		text-decoration: none;
@@ -319,14 +313,13 @@ a
 
 /*integration of Social Media*/
 .fa {
-	padding: 15px;
-	height:15px;
-	width:10px;
+	padding: 10px;
 	font-weight: normal;
 	text-decoration: solid;
 	border-radius: 50%;
 	display: inline-block;
 	font-size: inherit;
+	position: absolute;
 }
 
 .fa:hover {
@@ -338,3 +331,62 @@ a
 	color: white;
 }
 
+/*Device independant*/
+@media only screen and (max-width: 480px) {
+	.logo
+	{
+		width: 35%;
+		height: 20%;
+		top: 60px;
+		left: 20px;
+	}
+
+   .topnav a
+	{
+		width: 163px;
+		height: 39px;
+		top: 80px;
+		right: 170px;
+	    display: none;
+	}
+
+	h1
+	{
+		font-size: 26px;
+		position: absolute;
+		top: -143px;
+		left: 115px;
+	}
+
+	main
+	{
+		width: 10%;
+		height: 10%;
+	}
+	.scaled
+	{
+		width: 35%;
+		height: 38%;
+	}
+	.row
+	{
+		width: 1000px;
+		margin-top: 87px;
+	}
+	.column
+	{
+height: 500px;
+	}
+	nav
+	{
+		top: 10px;
+	}
+	.text
+	{
+		font-size: 10px;
+		padding: 43px 575px 0px 0px;
+		margin-left: -307px;
+		margin-top: -1px;
+		line-height: normal;
+	}
+}
