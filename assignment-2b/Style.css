@@ -407,6 +407,11 @@ a
 		top: 70px;
 		left: 110px;
 	}
+	h2
+	{
+		font-size: 18px;
+		position: relative;
+	}
 
 	.scaled
 	{
@@ -462,5 +467,20 @@ a
 	#nodisplay
 	{
 		display: none;
+	}
+
+	#Catering
+	{
+		position: inherit;
+		width: 100%;
+		padding: 0px 10px 0px 0px;
+		margin: 10px;
+	}
+	#HomeD
+	{
+		position: inherit;
+		width: 100%;
+		padding: 0px 10px 0px 0px;
+		margin: 10px;
 	}
 }
