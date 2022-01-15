@@ -410,10 +410,10 @@ a
 
 	.scaled
 	{
-		width: 72%;
-		height: 36%;
+		width: 73%;
+		height: 58%;
 		position: relative;
-		top: 50px;
+		top: 36px;
 	}
 	.row
 	{
@@ -446,7 +446,7 @@ a
 	}
 	#video
 	{
-		top: -120%;
+		top: -100%;
 		display: block;
 		width: 36%;
 		height: 67%;
