@@ -398,8 +398,10 @@ a
 		width: 200px;
 		height: 200px;
 		top: 49px;
-		right: 140px;
+		right: -15px;
 		position: absolute;
+		min-width: 100%;
+
 	}
 	.topnav a
 	{
