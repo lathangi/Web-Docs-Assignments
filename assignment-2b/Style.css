@@ -373,6 +373,8 @@ a
 		background-color: white;
 		border-radius: 62%;
 		text-align: center;
+		z-index: 1;
+		position: sticky;
 	}
 
 	.dropdown-content a:hover {
@@ -386,7 +388,8 @@ a
 		width: 200px;
 		height: 200px;
 		top: 49px;
-		left: 181px;
+		right: 140px;
+		position: absolute;
 	}
 	.topnav a
 	{
@@ -401,15 +404,11 @@ a
 		left: -34px;
 	}
 
-	main
-	{
-		width: 10%;
-		height: 10%;
-	}
 	.scaled
 	{
 		width: 35%;
-		height: 38%;
+		height: 24%;
+		position: absolute;
 	}
 	.row
 	{
@@ -420,6 +419,7 @@ a
 	{
 height: 500px;
 	}
+
 	nav
 	{
 		top: 10px;
@@ -427,10 +427,11 @@ height: 500px;
 	.text
 	{
 		font-size: 10px;
-		padding: 43px 575px 0px 0px;
+		padding: 43px 10px 0px 0px;
 		margin-left: -307px;
 		margin-top: -1px;
 		line-height: normal;
+		position: absolute;
 	}
 	.breadcrumb
 	{
@@ -441,4 +442,16 @@ height: 500px;
 		position: absolute;
 		top: 380px;
 	}
+	footer {
+		top: 80%;
+		position: absolute;
+	}
+	table, th, td,tr
+	{
+		display: none;
+	}
+	.copyright{
+		top:10%;
+	}
+
 }
