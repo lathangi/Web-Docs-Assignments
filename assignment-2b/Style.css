@@ -410,9 +410,10 @@ a
 
 	.scaled
 	{
-		width: 35%;
-		height: 15%;
-		position: absolute;
+		width: 72%;
+		height: 36%;
+		position: relative;
+		top: 50px;
 	}
 	.row
 	{
@@ -428,20 +429,24 @@ a
 	.text
 	{
 		font-size: 15px;
-		padding: 50px 15px 0px 260px;
+		padding: 60px 11px 0px 275px;
 		margin-left: -307px;
 		margin-top: 1px;
 		line-height: normal;
 		position: absolute;
 	}
+	img
+	{
+		max-width: 100%;
+		max-height: 100%;
+	}
 	.breadcrumb
 	{
 		display: none;
 	}
-	embed
+	#video
 	{
-		position: absolute;
-		top: 365px;
+		display: none;
 	}
 	footer
 	{
