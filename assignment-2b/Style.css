@@ -446,7 +446,10 @@ a
 	}
 	#video
 	{
-		display: none;
+		top: -120%;
+		display: block;
+		width: 36%;
+		height: 67%;
 	}
 	footer
 	{
