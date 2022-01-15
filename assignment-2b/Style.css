@@ -429,8 +429,8 @@ a
 	.text
 	{
 		font-size: 15px;
-		padding: 60px 11px 0px 275px;
-		margin-left: -307px;
+		padding: 60px 11px 0px 0px;
+		margin-left: -35px;
 		margin-top: 1px;
 		line-height: normal;
 		position: absolute;
@@ -450,10 +450,11 @@ a
 	}
 	footer
 	{
-		top: 88%;
+	/*	top: 88%;
 		width: 130%;
 		height: 11%;
-		left: 87px;
+		left: 87px;*/
+		display: contents;
 	}
 	#nodisplay
 	{
