@@ -432,55 +432,8 @@ height: 500px;
 		margin-top: -1px;
 		line-height: normal;
 	}
-
 	.breadcrumb
 	{
 		display: none;
 	}
 }
-/*Edit h3 for about us site*/
-h3.about-us{
-	font-size: 1.17em;
-	text-align: left;
-}
-
-.about-section {
-	padding: 50px;
-	text-align: center;
-}
-
-#adresse-about-us {
-	width: 250%;
-	text-align: center;
-	border: 1px none;
-
-}
-/*Text input style*/
-input[type=text], select, textarea {
-	width: 100%;
-	padding: 12px;
-	border: 1px solid #ccc;
-	border-radius: 4px;
-	box-sizing: border-box;
-	margin-top: 6px;
-	margin-bottom: 16px;
-	resize: vertical;
-}
-/*Button Submit style*/
-input[type=submit] {
-	background-color: #bd610b;
-	color: #ffffff;
-	padding: 12px 20px;
-	border: none;
-	border-radius: 4px;
-	cursor: pointer;
-}
-/*Button Submit style when mousse pointer over it move*/
-input[type=submit]:hover {
-	background-color: #eca557;
-}
-
-#containerConectUs {
-	border-radius: 5px;
-	background-color: #ffddca;
-	padding: 20px;
