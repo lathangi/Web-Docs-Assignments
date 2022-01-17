@@ -5,83 +5,80 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<h1>Sitemap of Bread and Butter.Co</h1>
-<url>
-  <loc>Location: https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Home.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-  <priority>Priority: 1.00</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Menus.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Services.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/store.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/credits.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Biscuits.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/CakesnPastries.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Chocolate.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Vegan.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/hyderabad.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/chennai.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/bangalore.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/about.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/privacypolicy.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-<url>
-  <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/contact.html</loc>
-  <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
-   <priority>Priority:  0.80</priority>
-</url>
-
-
+    <h1>Sitemap of Bread and Butter.Co</h1>
+    <url>
+        <loc>Location: https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Home.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority: 1.00</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Menus.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Services.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/store.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/credits.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Biscuits.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/CakesnPastries.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Chocolate.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/Vegan.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/hyderabad.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/chennai.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/bangalore.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/about.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/privacypolicy.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
+    <url>
+        <loc>Location:  https://lathangi.github.io/Web-Docs-Assignments/assignment-2b/contact.html</loc>
+        <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
+        <priority>Priority:  0.80</priority>
+    </url>
 </urlset>
