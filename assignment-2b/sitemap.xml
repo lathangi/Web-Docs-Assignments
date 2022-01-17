@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="Style.css"
- href="https://fonts.googleapis.com/css?family=Petit%20Formal%20Script"?>
-
-<urlset>
+<?xml-stylesheet type="text/css" href="Style.css"?>
+<?xml-stylesheet  type="text/css" href="https://fonts.googleapis.com/css?family=Petit%20Formal%20Script"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+>
 
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
@@ -82,4 +84,6 @@
   <lastmod>Last Modified: 2022-01-16T13:08:34+00:00</lastmod>
    <priority>Priority:  0.80</priority>
 </url>
+
+
 </urlset>
