@@ -1,81 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="Style.css"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <url>
-        <loc>Home.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>Menus.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>Services.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> store.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> credits.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> Biscuits.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> CakesnPastries.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> Chocolate.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> Vegan.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> hyderabad.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> chennai.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> bangalore.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> about.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> privacypolicy.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc> contact.html</loc>
-        <lastmod>2022-01-16T13:08:34+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/Home.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/Menus.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/Services.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/store.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/about.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/privacypolicy.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/contact.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/credits.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/Biscuits.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/CakesnPastries.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/Chocolate.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/Vegan.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/hyderabad.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/chennai.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/bangalore.html</loc>
+  <lastmod>2022-01-31T14:38:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
