@@ -673,3 +673,47 @@ url
 	font-size: 26px;
 	line-height: 60px;
 }
+
+.about-section {
+	padding: 50px;
+	text-align: center;
+	background-color: #daa06d;
+	color: #8b1010;
+}
+
+#adresse-about-us {
+	width: 100%;
+	text-align: center;
+	border: 1px none;
+
+}
+
+input[type=text], select, textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+
+input[type=submit] {
+	background-color: #bd610b;
+	color: #ffffff;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	background-color: #bd610b;
+}
+
+#containerConectUs {
+	border-radius: 5px;
+	background-color: #ffddca;
+	padding: 20px;
+}
