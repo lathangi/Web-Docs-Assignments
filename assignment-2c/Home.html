@@ -68,12 +68,12 @@
 </header>
 <!--Body-->
 <main>
-    <div itemscope itemtype ="https://schema.org/title">
-        <h1 style="padding-top: 70px;" itemprop="name">Welcome to Bread and Butter.Co</h1>
+    <div>
+        <h1 style="padding-top: 70px;">Welcome to Bread and Butter.Co</h1>
     </div>
     <div class="row">
-        <div class="column" itemscope itemtype="https://schema.org/ImageObject">
-            <img  itemprop="contentUrl" style="margin-top: 3%;" class="scaled" src="../assignment-2a/website-content/Photos/Bakery%20and%20Items/home%20page.jpg" alt="Photo Of Brown Wooden Tray With Cupcakes"/>
+        <div class="column">
+            <img style="margin-top: 3%;" class="scaled" src="../assignment-2a/website-content/Photos/Bakery%20and%20Items/home%20page.jpg" alt="Photo Of Brown Wooden Tray With Cupcakes"/>
         </div>
         <div class="column" style="margin-top: -3%;">
             <p class="text">
@@ -98,11 +98,9 @@
             <p>
                 <b>Contact us</b>
                 <br/>
-                <a href="mailto:breadandbutter@gmail.com" itemprop="email">Bread and Butter.Co</a>
+                <a href="mailto:breadandbutter@gmail.com">Bread and Butter.Co</a>
                 &#160; <b>|</b>  	&#160;
-                <span itemscope itemtype="https://schema.org/SocialMediaPosting">
-                    <a aria-label="Facebook" href="https://www.facebook.com/Bread-and-ButterCo-Est1978-105310622049377/" class="fa fa-facebook"></a>
-                </span>
+                <a aria-label="Facebook" href="https://www.facebook.com/Bread-and-ButterCo-Est1978-105310622049377/" class="fa fa-facebook"></a>
             </p>
         </div>
         <div class="column">
@@ -113,15 +111,15 @@
                 <tbody>
                 <tr>
                     <td>Hyderabad</td>
-                    <td><a href="tel:+91-2212345678" itemprop="telephone">  +91-2212345678</a></td>
+                    <td><a href="tel:+91-2212345678">  +91-2212345678</a></td>
                 </tr>
                 <tr>
                     <td>Bangalore</td>
-                    <td> <a href="tel:+91-9876543210" itemprop="telephone">  +91-9876543210</a></td>
+                    <td> <a href="tel:+91-9876543210">  +91-9876543210</a></td>
                 </tr>
                 <tr>
                     <td>Chennai</td>
-                    <td><a href="tel:+91-8964753120" itemprop="telephone">  +91-8964753120</a> </td>
+                    <td><a href="tel:+91-8964753120">  +91-8964753120</a> </td>
                 </tr>
                 </tbody>
             </table>
@@ -144,4 +142,32 @@
     Accessibility by Albenny, Ahmad and SEO by Balaji, Priyanka.
 </div>
 </body>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Restaurant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hyderabad",
+            "addressRegion": "India",
+            "streetAddress": "Road No.12, Banjara Hills"
+        },
+
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4",
+            "reviewCount": "250"
+        },
+       "openingHours": [
+            "Mo-Sa 11:00-14:30",
+            "Mo-Th 17:00-21:30",
+            "Fr-Sa 17:00-22:00"
+        ],
+        "email": "mailto:breadandbutter@gmail.com",
+        "Title": "Welcome to Bread and Butter.Co, Est.1978",
+        "name": "Bread and Butter.Co",
+        "telephone": "tel:+91-2212345678",
+        "url": "www.breadandbutter.cooking"
+    }
+</script>
 </html>
