@@ -18,7 +18,7 @@
     <meta name="msapplication-TileColor" content="#da532c"/>
     <meta name="theme-color" content="#ffffff"/>
     <title>Welcome to Bread and Butter.Co, Est.1978</title>
-    <meta name="description" content="Welcome to Bread and Butter.Co, a place for a wide range of delicious food in one place."/>
+    <meta name="description" content="Welcome to Bread and Butter.Co, a wide range of delicious food in one place."/>
 </head>
 <body>
 <!--Header-->
@@ -68,12 +68,12 @@
 </header>
 <!--Body-->
 <main>
-    <div>
-        <h1 style="padding-top: 70px;">Welcome to Bread and Butter.Co</h1>
+    <div itemscope itemtype ="https://schema.org/title">
+        <h1 style="padding-top: 70px;" itemprop="name">Welcome to Bread and Butter.Co</h1>
     </div>
     <div class="row">
-        <div class="column">
-            <img style="margin-top: 3%;" class="scaled" src="../assignment-2a/website-content/Photos/Bakery%20and%20Items/home%20page.jpg" alt="Photo Of Brown Wooden Tray With Cupcakes"/>
+        <div class="column" itemscope itemtype="https://schema.org/ImageObject">
+            <img  itemprop="contentUrl" style="margin-top: 3%;" class="scaled" src="../assignment-2a/website-content/Photos/Bakery%20and%20Items/home%20page.jpg" alt="Photo Of Brown Wooden Tray With Cupcakes"/>
         </div>
         <div class="column" style="margin-top: -3%;">
             <p class="text">
@@ -98,9 +98,11 @@
             <p>
                 <b>Contact us</b>
                 <br/>
-                <a href="mailto:breadandbutter@gmail.com">Bread and Butter.Co</a>
+                <a href="mailto:breadandbutter@gmail.com" itemprop="email">Bread and Butter.Co</a>
                 &#160; <b>|</b>  	&#160;
-                <a aria-label="Facebook" href="https://www.facebook.com/Bread-and-ButterCo-Est1978-105310622049377/" class="fa fa-facebook"></a>
+                <span itemscope itemtype="https://schema.org/SocialMediaPosting">
+                    <a aria-label="Facebook" href="https://www.facebook.com/Bread-and-ButterCo-Est1978-105310622049377/" class="fa fa-facebook"></a>
+                </span>
             </p>
         </div>
         <div class="column">
@@ -111,15 +113,15 @@
                 <tbody>
                 <tr>
                     <td>Hyderabad</td>
-                    <td><a href="tel:+91-2212345678">  +91-2212345678</a></td>
+                    <td><a href="tel:+91-2212345678" itemprop="telephone">  +91-2212345678</a></td>
                 </tr>
                 <tr>
                     <td>Bangalore</td>
-                    <td> <a href="tel:+91-9876543210">  +91-9876543210</a></td>
+                    <td> <a href="tel:+91-9876543210" itemprop="telephone">  +91-9876543210</a></td>
                 </tr>
                 <tr>
                     <td>Chennai</td>
-                    <td><a href="tel:+91-8964753120">  +91-8964753120</a> </td>
+                    <td><a href="tel:+91-8964753120" itemprop="telephone">  +91-8964753120</a> </td>
                 </tr>
                 </tbody>
             </table>
@@ -139,11 +141,7 @@
     </div>
 </footer>
 <div>
-    <a href="https://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
-             alt="Valid CSS!" />
-    </a>
+    Accessibility by Albenny, Ahmad and SEO by Balaji, Priyanka.
 </div>
 </body>
 </html>
