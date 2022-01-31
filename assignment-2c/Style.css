@@ -11,6 +11,10 @@ html
 	height: 100%;
 	text-rendering: auto;
 }
+html, body
+{
+	min-height: 100%;
+}
 
 body
 {
