@@ -1,8 +1,8 @@
 /* Done by Priyanka Balaji*/
 html
 {
-	color: #ed4041;
-	background-color: #f1f3f9;
+	color: #9C0D0D;
+	background-color: #EAEDF7;
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -640,15 +640,8 @@ a
 
 }
 
-/*SiteMap*/
-urlset
-{
-	animation-name: colorchange;
-	animation-duration: 20s;
-	animation-iteration-count: infinite;
-}
 /*Sitemap*/
-url,lastmod,loc,priority
+urlset, url,lastmod,loc,priority
 {
 	display : block;
 }
