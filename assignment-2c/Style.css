@@ -221,7 +221,6 @@ h6
 {
 	width: 500px;
 	height: 500px;
-	object-fit: cover;
 	border: double #9C0D0D 5px;
 	background-size: 100% 100%;
 }
