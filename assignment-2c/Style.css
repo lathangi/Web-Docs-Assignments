@@ -6,8 +6,8 @@ html
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	text-rendering: auto;
-	font-display: optional;
+	text-rendering: optimizeSpeed;
+	text-size-adjust: auto;
 }
 html, body
 {
@@ -96,7 +96,6 @@ h6
 .column {
 	flex: 50%;
 	padding: 5px;
-	height: 300px;
 }
 .flexalign
 {
@@ -222,7 +221,8 @@ h6
 	width: 500px;
 	height: 500px;
 	border: double #9C0D0D 5px;
-	background-size: 100% 100%;
+	color-rendering: optimizeQuality;
+	image-rendering: pixelated;
 }
 
 /*TEXT align*/
@@ -316,6 +316,10 @@ a
 	min-width:1000px;
 	height:100%;
 }
+
+#homeimg {
+	margin-top: 3%;
+}
 /*Device independant*/
 @media only screen and (max-width: 720px) {
 	button
@@ -404,7 +408,6 @@ a
 		margin-left: -35px;
 		margin-top: 1px;
 		line-height: normal;
-		position: absolute;
 		max-width: 100%;
 	}
 	.breadcrumb
@@ -413,10 +416,9 @@ a
 	}
 	#video
 	{
-		top: -100%;
+
 		display: block;
-		width: 36%;
-		height: 67%;
+height: fit-content;
 	}
 	footer
 	{
@@ -430,7 +432,12 @@ a
 	{
 		display: none;
 	}
+ #homeimg
+ {
 
+	 margin-top: 8%;
+	 height: fit-content;
+ }
 	#Catering
 	{
 		position: inherit;
