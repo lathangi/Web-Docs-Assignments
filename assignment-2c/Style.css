@@ -254,13 +254,12 @@ footer
 /*Line separation*/
 hr
 {
-	display: block;
 	border-style: solid;
 	border-width: 3px;
-	max-width: 100%;
-	width: auto;
+	max-width: 200%;
 	border-color: darkred;
 	border-block-end-style: none;
+	width: 120%;
 }
 
 address
