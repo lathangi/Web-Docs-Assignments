@@ -475,7 +475,7 @@ a
 		display: none;
 	}
 
-	#Chocoimg
+	#Chocoimg, #Biscuitimg, #Veganimg, #Cakeimg, #Bangloreimg, #Hyderabadimg, #chennaiimg
 	{
 		position: relative;
 		max-width: 100%;
@@ -485,32 +485,6 @@ a
 		display: block;
 	}
 
-	#Biscuitimg
-	{
-		position: relative;
-		max-width: 100%;
-		max-height:100%;
-		height: auto;
-		width: auto;
-	}
-	#Veganimg
-	{
-		position: relative;
-		max-width: 100%;
-		max-height:100%;
-		display: block;
-		height: auto;
-		width: auto;
-	}
-	#Cakeimg
-	{
-		position: relative;
-		max-width: 100%;
-		max-height:100%;
-		display: block;
-		height: auto;
-		width: auto;
-	}
 	#video
 	{
 		height: auto;
