@@ -273,6 +273,7 @@ address
 table, th, td
 {
 	border: 1px none;
+	width: max-content;
 }
 
 /*Image Animation*/
