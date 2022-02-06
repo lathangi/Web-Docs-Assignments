@@ -19,38 +19,32 @@
         {
             "@context":"https://schema.org",
             "@type":"WebPage",
+            "name": "Contact Us",
             "breadcrumb": "Home > Contact Us",
-            "send-input":
+            "mainEntity":
             {
-                "@type": "PropertyValueSpecification",
-                "valueName": "required ",
-                "query-input": "required maxlength=500",
-                "target": "breadandbutter@gmail.com",
+                "@type": "ContactPage",
                 "potentialAction":
                 {
-                "@type": "SendAction"
-                }
-            },
-            "toRecipient":
-            {
-                "@type":"ContactPoint",
-                "name":"Bread and Butter.Co",
-                "email" :"breadandbutter@gmail.com",
-                "telephone": "tel:+91-2212345678"
-            },
-            "url": "www.breadandbutter.cooking",
-            "description":"Welcome to Bread and Butter.Co, a wide range of delicious food in one place.",
-            "address": {
-                    "@type": "PostalAddress",
-                    "areaServed":
-                    [
-                        "Hyderabad",
-                        "Chennai",
-                        "Bangalore"
-                    ]
+                    "@type": "SendAction",
+                    "name": "Submit",
+                    "recipient":
+                    {
+                        "@type": "Bakery",
+                        "name": "Bread and Butter.Co",
+                        "email": "breadandbutter@gmail.com"
+                    },
+
+                    "deliveryMethod": "E-mail",
+                    "agent":
+                    {
+                        "@type": "Person",
+                        "name": "First and Last Name of the Consumer"
+                    },
+                    "description": "Describe the Query"
                 },
-                "addressRegion": "India",
-                "inLanguage":"English"
+                "inLanguage": "English"
+            }
         }
     </script>
 </head>
