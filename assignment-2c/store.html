@@ -19,13 +19,13 @@
         {
             "@context":"https://schema.org",
             "@type":"WebPage",
-            "mainEntity":
+            "breadcrumb": "Home > Retail Stores",
+            "location":
             {
-                "@type":"Restaurant",
+                "@type":"Place",
                 "name":"Bread and Butter.Co",
                 "founder": "Mr. Sanjeev Kapoor",
                 "email": "mailto:breadandbutter@gmail.com",
-                "image": "icon_2.svg",
                 "telephone": "tel:+91-2212345678",
                 "url": "www.breadandbutter.cooking",
                 "description":"Welcome to Bread and Butter.Co, a wide range of delicious food in one place.",
@@ -33,16 +33,25 @@
                     "South Asian",
                     "Northwestern Europe"
                 ],
+                "image":
+                [
+                    "https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/icon_2.svg",
+                    "https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/photos/hyderabad.webp",
+                    "https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/photos/chennai.webp",
+                    "https://lathangi.github.io/Web-Docs-Assignments/assignment-2c/photos/bangalore.webp"
+                ],
                 "address": {
                     "@type": "PostalAddress",
-                    "addressLocality": "Hyderabad",
-                    "addressRegion": "India",
-                    "streetAddress": "Road No.12, Banjara Hills"
+                    "addressLocality":
+                    [
+                        "Hyderabad",
+                        "Chennai",
+                        "Bangalore"
+                    ]
                 },
-                "priceRange": "Starts from ₹50",
-                "parentOrganization": {
-                    "branchOf":"Chennai"
-              }
+                    "addressRegion": "India",
+
+                "priceRange": "Starts from ₹50"
             },
             "inLanguage":"English"
         }
@@ -105,60 +114,44 @@
     </nav>
     <!--Content-->
     <h1>Retail Stores</h1>
+    <div style="text-align: center">
     <div class="row">
-        <!--Biscuts-->
-        <div class="column" style="margin: 10% 10% 0% 2%;">
-            <div class="container">
-                <a href="hyderabad.html">
+        <div class="column">
+              <a href="hyderabad.html">
                     <img id="images1" class="scaled" alt="Aged stone mosque with bell towers and decor under cloudy sky in Hyderabad India" src="photos/Hyderabad.webp"/>
                 </a>
-                <div class="overlay">
-                    <a style="color: #f1f1f1;" href="hyderabad.html">Hyderabad</a>
-                </div>
             </div>
-        </div>
-        <div class="column" style="margin: 10% 2% 0% -10%;">
+        <div class="column">
             <a href="hyderabad.html">
-                <pre id="Menufont1" style="text-align: center;font-size: 0.9em;font-family: 'Times New Roman', serif;line-height: 1.5em;">H Y D E R A B A D</pre>
+                <p id="Menufont1">H Y D E R A B A D</p>
             </a>
         </div>
-
-        <!--Cakes and Pastries-->
     </div>
     <div class="row">
-        <div class="column" style="margin: 10% 10% 0% 2%;">
-            <div class="container" style="text-align: left;">
-                <a href="chennai.html">
-                    <img id="images2" class="scaled" src="photos/chennai.webp" alt="Chennai Temple in Chennai Tamil Nadu, India"/>
+        <div class="column">
+                 <a href="chennai.html">
+                    <img id="images2" class="scaled" src="photos/chennai.webp" alt="Temple in Chennai Tamil Nadu"/>
                 </a>
-                <div class="overlay">
-                    <a style="color: #f1f1f1;" href="chennai.html">Chennai</a>
-                </div>
             </div>
-        </div>
-        <div class="column" style="margin: 10% 2% 0% -10%;">
+        <div class="column">
             <a href="chennai.html">
-                <pre id="Menufont2" style="text-align: center;font-size: 0.9em;font-family: 'Times New Roman', serif;line-height: 1.5em;">C H E N N A I</pre>
+                <p id="Menufont2">C H E N N A I</p>
             </a>
         </div>
     </div>
 
     <div class="row">
-        <div class="column" style="margin: 10% 10% 0% 2%;">
-            <div class="container">
+        <div class="column">
                 <a href="bangalore.html">
                     <img id="images3" class="scaled" src="photos/bangalore.webp" alt="Architectural Photography of Brown Tower"/>
                 </a>
-                <div class="overlay">
-                    <a style="color: #f1f1f1;" href="bangalore.html">Bangalore</a>
-                </div>
             </div>
-        </div>
-        <div class="column" style="margin: 10% 2% 0% -10%;">
+        <div class="column">
             <a href="bangalore.html">
-                <pre id="Menufont3" style="text-align: center;font-size: 0.9em;font-family: 'Times New Roman', serif;line-height: 1.5em;">B A N G A L O R E</pre>
+                <p id="Menufont3">B A N G A L O R E</p>
             </a>
         </div>
+    </div>
     </div>
 </main>
 <!--Footer-->
