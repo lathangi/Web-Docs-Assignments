@@ -10,7 +10,6 @@ html
 	position: absolute;
 	text-size-adjust:  optimizeLegibility;
 	display: block;
-	zoom: 95%;
 	max-width: 100%;
 	max-height: 100%;
 	width: auto;
@@ -249,7 +248,7 @@ footer
 	position: relative;
 	margin-top: 50%;
 	display: contents;
-	font-size: 15pt;
+	font-size: 20px;
 }
 /*Line separation*/
 hr
@@ -499,7 +498,7 @@ urlset, url,lastmod,loc,priority
 url
 {
 	color: #9C0D0D;
-	font-size: 26px;
+	font-size: 25px;
 	line-height: 60px;
 }
 #adresse-about-us {
