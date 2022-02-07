@@ -477,7 +477,7 @@ a
 		width: auto;
 		display: block;
 	}
-	#homeimg
+	#homeimg, #video
 	{
 		position: relative;
 		max-width: 100%;
@@ -485,11 +485,6 @@ a
 		height: auto;
 		width: auto;
 		display: block;
-	}
-
-	#video
-	{
-		height: auto;
 	}
 
 }
