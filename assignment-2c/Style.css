@@ -493,9 +493,9 @@ a
 
 }
 
-loc,lastmod,priority
+urlset,loc,lastmod,priority
 {
-	display : block;
+	display: block;
 	color: #9C0D0D;
 	font-size: 25px;
 	line-height: 60px;
