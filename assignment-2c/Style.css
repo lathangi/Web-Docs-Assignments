@@ -1,4 +1,4 @@
-/* Done by Priyanka Balaji*/
+/*Done by Priyanka Balaji*/
 html
 {
 	color: #9C0D0D;
@@ -493,8 +493,7 @@ a
 
 }
 
-urlset,loc,lastmod,priority
-{
+loc, lastmod, priority {
 	display: block;
 	color: #9C0D0D;
 	font-size: 25px;
