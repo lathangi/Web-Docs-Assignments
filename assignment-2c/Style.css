@@ -23,7 +23,6 @@ html
 
 body
 {
-	margin:10px;
 	font-family: 'Times New Roman', serif;
 	line-height: 1.5em;
 	font-size: 24px;
@@ -245,10 +244,10 @@ h6
 
 footer
 {
-	position: relative;
+	position: absolute;
 	margin-top: 50%;
 	display: contents;
-	font-size: 20px;
+	font: caption;
 }
 /*Line separation*/
 hr
@@ -445,6 +444,7 @@ a
 	footer
 	{
 		display: contents;
+		position: absolute;
 	}
 	#nodisplay
 	{
@@ -465,6 +465,7 @@ a
 		text-size-adjust: auto;
 		hyphens: auto;
 		display: inline-block;
+		text-decoration: none;
 	}
 	#Making
 	{
