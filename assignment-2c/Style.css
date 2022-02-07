@@ -446,7 +446,7 @@ a
 		display: contents;
 		position: absolute;
 	}
-	#nodisplay
+	#nodisplay, #nodisplay1
 	{
 		display: none;
 	}
@@ -493,17 +493,6 @@ a
 
 }
 
-/*Sitemap*/
-urlset, url,lastmod,loc,priority
-{
-	display : block;
-}
-url
-{
-	color: #9C0D0D;
-	font-size: 25px;
-	line-height: 60px;
-}
 #adresse-about-us {
 	width: 100%;
 	text-align: center;
